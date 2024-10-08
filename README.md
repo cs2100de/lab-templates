@@ -1,1 +1,1 @@
-# lab-skeletons
+# lab-templates
